@@ -1,0 +1,6 @@
+@GitWebAPiProj_HostAddress = http://localhost:5197
+
+GET {{GitWebAPiProj_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
